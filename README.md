@@ -2,7 +2,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=9967han&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9967han&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9967han&layout=compact&hide=css,html&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
