@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=9967han)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=9967han&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9967han&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9967han&count_bg=%2344B23C&title_bg=%23393737&icon=github.svg&icon_color=%2344B23C&title=hits&edge_flat=false"/></a>
